@@ -1,0 +1,22 @@
+.LogoText{
+color: #00ad8f;
+font-weight: 600;}
+
+.TextStyle{
+color: #00ad8f;
+font-weight: 500;
+
+
+
+}
+
+.ButtonColor{
+background-color: #00ad8f;
+color:white;
+font-weight: lighter;
+}
+
+.navbar-nav{
+    margin: auto;
+    width: 50%;
+}

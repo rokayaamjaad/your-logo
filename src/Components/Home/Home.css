@@ -1,0 +1,65 @@
+.card {
+    border: none;
+  }
+
+.card-title{
+    color: #00ad8f;
+    font-weight: 500;
+    line-height: 1.3;
+}
+
+.ButtonCard{
+    background-color: #00ad8f;
+    color:white;
+    font-weight: lighter;
+    }
+
+.card-text1{
+    color: #00ad8f;
+        font-weight: 500;
+        }
+
+.card-text2{
+font-weight: 500;
+}
+.circle1{
+    height: 500px;
+    width: 500px;
+    background-color: #00ad8f;
+    opacity: 0.1;
+   
+    border-radius: 50%;
+   
+}
+.circle2{
+    height: 450px;
+    width: 450px;
+    background-color:#00ad8f;
+    border-radius: 50%;
+    opacity: 0.2;
+    z-index: 50;
+    position: absolute;
+    
+}
+.circle3{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("./Homeimages/kids.jpg");
+    z-index: 50;
+    position: absolute;
+    
+}
+
+.DotCircle1{
+    height:150px;
+    width: 200px;
+    position: absolute;
+}
+.DotCircle2{
+    height:90px;
+    width: 120px;
+    position: absolute;
+}
